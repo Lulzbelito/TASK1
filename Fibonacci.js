@@ -18,3 +18,5 @@ function fibonacciF() {
 }
 
 fibonacciF()
+
+document.getElementById("run").onclick = fibonacciF
